@@ -7,3 +7,9 @@
 <img src="Images/Picture3.png" alt="Demo-Image">
 <img src="Images/Picture4.png" alt="Demo-Image">
 <img src="Images/Picture5.png" alt="Demo-Image">
+<p>Tech Stack used:</p>
+<ul>Html</ul>
+<ul>Css</ul>
+<ul>Javascript</ul>
+<ul>NodeJS</ul>
+<ul>MongoDB</ul>
